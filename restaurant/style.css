@@ -1,0 +1,31 @@
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  background-color: #1e90ff; /* couleur de l’interface */
+  color: white;              /* couleur du texte */
+}
+
+label {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 50%;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
